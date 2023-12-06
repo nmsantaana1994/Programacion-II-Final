@@ -1,0 +1,188 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+strong {
+    font-weight: normal;
+}
+
+nav {
+    background-color: #d71f26;
+}
+
+#navbarNavDropdown{
+    align-items: right;
+}
+
+.dropdown-menu {
+    background-color: #d71f26;
+}
+
+.indexH li a{
+    color: black;
+    font-size: 1.1em;
+}
+
+h1, h2, h3 {
+    margin: 0;
+    font-family: "Fugaz One";
+}
+
+p {
+    font-family: "Roboto";
+}
+
+li {
+    list-style-type: none;
+}
+
+
+/*CSS Home*/
+
+.titulo {
+    color: #d71f26;
+}
+
+#bmx .mincard {
+    margin-bottom: 1em;
+}
+
+.mincard h3{
+    text-shadow: 0.1em 0.1em 0.5em black;
+    font-size: 2em;
+    color: whitesmoke;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    background-color: #d71f26;
+}
+
+.imagenFondo {
+    width: 100%;
+    aspect-ratio: 2/1;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+/*CSS Quienes Somos*/
+
+#somos {
+    margin-bottom: 1em;
+}
+
+#somos img {
+    margin-bottom: 1em;
+    width: 100%;
+    border-radius: 1em;
+}
+
+#somos .centrado {
+    align-items: center;
+}
+
+.precio span {
+    font-weight: bold;
+    font-size: x-small;
+    font-size: 2em;
+    margin-bottom: 1em;
+}
+
+.medida-iframe {
+    width: 100%;
+    height: 80%;
+    min-height: 300px;
+}
+
+
+/*CSS Ventana Producto*/
+
+.card {
+    box-shadow: 5px 5px 1em;
+}
+
+.img_catalogo {
+    margin-top: 1em;
+}
+
+.btn-brown {
+    background-color: #d71f26;
+    font-family: "Fugaz One";
+}
+
+
+
+/*CSS Ventana Alumno*/
+
+.imagen_alumno {
+    display: flex;
+    justify-content: center;
+}
+
+#alumno img {
+    border-radius: 15em;
+}
+
+#alumno ul {
+    text-align: center;
+}
+
+#alumno li {
+    font-size: 1.5em;
+}
+
+#alumno li span {
+    font-weight: bold;
+}
+
+
+/*CSS Vista Procesar Datos*/
+
+#datos li {
+    text-align: center;
+    font-size: 1.5em;
+    padding-bottom: 1em;
+}
+
+.lista-datos span {
+    font-weight: bold;
+}
+
+/*CSS Vista 404*/
+
+.max {
+    max-width: 500px;
+}
+
+
+/*CSS Administrador*/
+.indexA li a{
+    color: whitesmoke;
+    font-size: 1.1em;
+}
+
+.btn-yellow {
+    background-color: yellow;
+    font-family: "Fugaz One";
+}
+
+.btn-green {
+    background-color: green;
+    font-family: "Fugaz One";
+}
+
+.bg-cian {
+    background-color: #28b3c4;
+}
+
+.fuente {
+    font-family: "Fugaz One";
+}
+
+/*CSS Productos Bicis*/
+.marcaslogos {
+    max-width: 100px;
+}

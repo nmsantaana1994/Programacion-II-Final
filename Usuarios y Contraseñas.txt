@@ -1,0 +1,8 @@
+Usuario: superadmin
+Contraseña: superadmin
+
+Usuario: admin
+Contraseña: admin
+
+Usuario: usuario
+Contraseña: usuario
